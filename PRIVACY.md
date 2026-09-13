@@ -48,6 +48,6 @@ If Exemplar ever adds cloud features or data collection, this policy will be upd
 
 ## Contact
 
-- Email: jmc@cageandmirror.com
+- Email: legal@wander.com
 - Source: [github.com/wandercom/exemplar](https://github.com/wandercom/exemplar)
 - Web: [exemplar.tools/privacy](https://exemplar.tools/privacy)

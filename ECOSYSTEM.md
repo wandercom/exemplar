@@ -336,4 +336,4 @@ You don't need all 17 projects on day one. Start with Constrain + Pact. Add Bato
 
 ---
 
-*Built by Jeremy McEntire. Constrained, decomposed, implemented, verified, governed.*
+*Maintained by Wander. Constrained, decomposed, implemented, verified, governed.*
